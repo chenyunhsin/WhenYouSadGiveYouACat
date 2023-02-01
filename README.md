@@ -16,6 +16,7 @@
 先到這邊申請一個line notify token，先進此網站並登入
 https://notify-bot.line.me/my/
 
+
 拉到最下面會有**發行權杖按鈕**按下去
 <img width="543" alt="截圖 2023-02-01 下午2 06 07" src="https://user-images.githubusercontent.com/58776036/215964719-3034e6c3-19f3-4744-8ec4-cf7b213c94c3.png">
 
