@@ -2,13 +2,12 @@
 
 
 如同標題，當你不開心時，透過line notify給你一隻貓貓
-主要是透過line notify實作此功能
 
 ## 用途
 
 
 閒暇時做的小玩具，最近AI很紅，也試著參考相關程式做了一個小project，靈感來自於之前看到的相關project，
-但當時沒有成功啟動該project，因此自己做了一個，環境是用mac os，踩到的坑(mac os 下載的tensorflow原來不同包...)
+但當時沒有成功啟動該project，因此自己做了一個，環境是用mac os，踩到的坑:mac os 下載的tensorflow原來不同包...
 
 
 
