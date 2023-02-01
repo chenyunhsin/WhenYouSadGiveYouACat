@@ -18,6 +18,7 @@ https://ithelp.ithome.com.tw/articles/10234115
 
 接著選擇要訂閱貓圖的人或群組，如圖：
 <img width="952" alt="ImotionDefeetorToken" src="https://user-images.githubusercontent.com/58776036/215964020-c8a3b812-0bdc-40cc-9a01-287d4bb91258.png">
+
 接著按下複製按鈕
 <img width="761" alt="取權村拷貝" src="https://user-images.githubusercontent.com/58776036/215964040-c1b1d68f-ca71-42f4-96f1-84ddfce09d1a.png">
 將複製的值替換掉emotion_detector.py的TOKEN變數數值
