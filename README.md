@@ -1,7 +1,7 @@
 # WhenYouSadGiveYouACat
 
 
-> 如同標題，當你不開心時，透過line notify給你一隻貓貓
+如同標題，當你不開心時，透過line notify給你一隻貓貓
 主要是透過line notify實作此功能
 
 ## 用途
