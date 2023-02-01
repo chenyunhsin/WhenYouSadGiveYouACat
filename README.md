@@ -42,7 +42,7 @@ pip3 install -r requirements.txt
 python3 emotion_detector.py
 ```
 
-## 參考
+## 感謝這些參考對象~
 大部分人臉辨識的程式碼是參考這邊，順便改了一些變數名稱和一些bug，可能現在版本的回傳有差，因此跑起來有bug 0.0
 https://steam.oxxostudio.tw/category/python/ai/ai-smile-photo.html
 
@@ -52,5 +52,5 @@ https://api.thecatapi.com/v1/images/search
 line notify使用參考
 https://ithelp.ithome.com.tw/articles/10234115
 
-希望大家玩得開心 啦:D
+## 希望大家玩得開心 啦:D
 
