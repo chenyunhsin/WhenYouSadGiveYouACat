@@ -25,6 +25,7 @@ https://notify-bot.line.me/my/
 
 #### 接著按下複製按鈕
 <img width="761" alt="取權村拷貝" src="https://user-images.githubusercontent.com/58776036/215964040-c1b1d68f-ca71-42f4-96f1-84ddfce09d1a.png">
+
 #### 將複製的值替換掉emotion_detector.py的TOKEN變數數值
 
 #### 創建虛體環境+下載需要的檔案
