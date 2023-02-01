@@ -37,6 +37,7 @@ pip3 install -r requirements.txt
 ```
 
 #### 接著啟動，就能玩了～
+
 ```shell
 python3 emotion_detector.py
 ```
