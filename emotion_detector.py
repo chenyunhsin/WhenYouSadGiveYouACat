@@ -30,15 +30,6 @@ def lineNotifyMessage(token, msg):
     r = requests.post("https://notify-api.line.me/api/notify", headers = headers, params = payload)
     return r.status_code
 
-# 定義在畫面中放入文字的函式
-def putText(source, x, y, text, scale=2.5, color=(255,255,255)):
-    org = (x,y)
-    fontFace = cv2.FONT_HERSHEY_SIMPLEX
-    fontScale = scale
-    thickness = 5
-    lineType = cv2.LINE_AA
-    cv2.putText(source, text, org, fontFace, fontScale, color, thickness, lineType)
-
 happy = 0    # 是否有 happy 的變數
 
 if not cap.isOpened():
