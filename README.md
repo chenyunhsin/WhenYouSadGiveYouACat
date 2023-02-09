@@ -42,6 +42,14 @@ pip3 install -r requirements.txt
 python3 emotion_detector.py
 ```
 
+#### 一個簡單的Demo
+
+
+
+https://user-images.githubusercontent.com/58776036/217727938-488c7382-6345-4411-917f-49304cc9d4bd.mp4
+
+
+
 ## 感謝這些參考對象~
 大部分人臉辨識的程式碼是參考這邊，順便改了一些變數名稱和一些bug，可能現在版本的回傳有差，因此跑起來有bug 0.0
 https://steam.oxxostudio.tw/category/python/ai/ai-smile-photo.html
