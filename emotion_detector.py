@@ -6,9 +6,18 @@ IS_SMILING = 0.5 # 如果你微笑的角度比較小，偵測不到你在笑，�
 TOKEN = ''
 CAT_URL = "https://api.thecatapi.com/v1/images/search"
 cap = cv2.VideoCapture(0)        # 讀取攝影鏡頭
+lastTime = 0
+nowTime = 0
+send_frequency = 60 # 60秒才傳一張
 
 # 發送東西到line notify
 def lineNotifyMessage(token, msg):
+    global lastTime
+    global nowTime
+    nowTime = int(time.time()) # 取得現在時間
+    if nowTime - lastTime<send_frequency:
+        return 0
+    lastTime = nowTime
     response = requests.get(CAT_URL)
     if response.status_code == 200:
         # 將回應資料轉換為 JSON 格式
