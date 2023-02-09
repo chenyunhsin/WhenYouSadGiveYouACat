@@ -42,7 +42,7 @@ pip3 install -r requirements.txt
 python3 emotion_detector.py
 ```
 
-#### 一個簡單的Demo
+#### 一個簡單的Demo，send_frequency = 0的情況0.0
 
 
 
