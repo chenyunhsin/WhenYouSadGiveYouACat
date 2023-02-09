@@ -6,7 +6,7 @@
 ## 用途
 
 
-閒暇時做的小玩具，最近AI很紅，也試著參考相關程式做了一個小project，靈感來自於之前看到的相關project，
+閒暇時做的小玩具，最近AI很紅，也試著參考相關程式，使用Deepface套件做了一個小project，靈感來自於之前看到的相關project，
 但當時沒有成功啟動該project，因此自己做了一個，環境是用mac os，踩到的坑:mac os 下載的tensorflow原來不同包...
 
 
